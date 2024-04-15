@@ -18,7 +18,7 @@ Menu:
 Will be the starting menu displaying the directions, play, and quit.
 
 Game play mode:
-Background is a picture of space. In this background there will be 5 sprites being, the target, big planet, little planet, space bullet, space man. In the top right corner there will be an ammo left screen displaying what is left. When the ammo gets to 0 the game quits and takes you to the main menu. Your best ammo count will be displayed as well. 
+Background is a picture of space.(https://stock.adobe.com/search?k=space+cartoon) In this background there will be 5 sprites being, the target, big planet, little planet, space bullet, space man. In the top right corner there will be an ammo left screen displaying what is left. When the ammo gets to 0 the game quits and takes you to the main menu. Your best ammo count will be displayed as well. 
 
 Sprites:
 
